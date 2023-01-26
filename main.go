@@ -3,6 +3,8 @@ package main
 import (
 	"flag"
 	"fmt"
+
+	"github.com/venkor/ping-out-check/pinger"
 )
 
 func main() {
