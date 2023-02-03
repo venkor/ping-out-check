@@ -1,6 +1,6 @@
 module github.com/venkor/ping-out-check
 
-go 1.19
+go 1.20
 
 require github.com/prometheus-community/pro-bing v0.1.0
 
